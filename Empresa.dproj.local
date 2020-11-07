@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/04 13:25:49.000.820,=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 13:26:34.000.822,C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.View.dfm=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/11/04 13:26:34.000.822,C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.View.pas=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 13:26:40.000.466,C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.dproj=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/11/04 13:26:54.000.309,=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 13:27:24.000.953,C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.Controller.pas=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 13:27:31.000.265,=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 13:27:48.000.465,C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.Model.pas=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 13:59:31.000.115,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Empresa.dproj=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.dproj</Transaction>
+    <Transaction>2020/11/04 14:00:02.000.460,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Model\Empresa.Model.pas=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.Model.pas</Transaction>
+    <Transaction>2020/11/04 14:00:23.000.090,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Controller\Empresa.Controller.pas=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.Controller.pas</Transaction>
+    <Transaction>2020/11/04 14:00:33.000.708,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\View\Empresa.View.pas=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.View.pas</Transaction>
+    <Transaction>2020/11/04 14:00:33.000.708,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\View\Empresa.View.dfm=C:\Users\greic\OneDrive\Pessoais\Greick\Documentos\Embarcadero\Studio\Projects\Empresa.View.dfm</Transaction>
+    <Transaction>2020/11/04 17:17:01.000.265,=C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 17:17:33.000.959,=C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 17:18:56.000.401,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\View\Empresa.Dados.View.pas=C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 17:18:56.000.401,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\View\Empresa.Dados.View.dfm=C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Unit1.dfm</Transaction>
+    <Transaction>2020/11/05 16:23:56.000.340,=C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Unit1.pas</Transaction>
+    <Transaction>2020/11/05 16:24:25.000.510,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Model\Conexao.Model.dfm=C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Unit1.dfm</Transaction>
+    <Transaction>2020/11/05 16:24:25.000.510,C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Model\Conexao.Model.pas=C:\Users\greic\OneDrive\Desenvolvimento\Tronsoft\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
