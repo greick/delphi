@@ -2,5 +2,4 @@ CRUD em Delphi usando MVC e consumo de webservice JSon.
 
 ToDo:
 -----
-Exclusão
-Validação de campos
+Exclusão e Validação de campos
